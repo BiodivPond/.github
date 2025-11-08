@@ -27,3 +27,5 @@ project partners.
 dashboards displaying species presence and geographical distributions have been
 developed and made available to stakeholders, including nature managers, policymakers,
 and the public.
+
+The pilot is coordinated by [Jonáš Gaigr](https://github.com/jonasgaigr) at the [Nature Conservation Agency of the Czech Republic](https://aopk.gov.cz/web/en)
